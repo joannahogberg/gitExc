@@ -29,7 +29,7 @@ I love **Mexico** and my dog _Lucas_. One thing I don't like is ~~war~~
 function love(){
 alert("I love you");
 }
-setInterval(love(), 3000);
+setInterval(love, 3000);
 ```
 
 First Header | Second Header
